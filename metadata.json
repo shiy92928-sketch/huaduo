@@ -1,0 +1,8 @@
+{
+  "name": "Neon Botanica - 3D Pinch Particle System",
+  "description": "An interactive 3D particle system that tracks hand gestures via webcam. Pinch to grow procedural glowing neon flowers in a dreamy environment.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
